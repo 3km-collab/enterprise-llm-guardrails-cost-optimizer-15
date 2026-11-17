@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://3km-collab.github.io/enterprise-llm-guardrails-cost-optimizer-15/sitemap.xml
